@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome 😎
 
-<!--
-**Sikest635/Sikest635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is João Vitor 
 
-Here are some ideas to get you started:
+I'm studying Alura
+I'm developing in the Java Script
+I use this space to organize and share my projects developed
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[{YOU CAN CONTACT ME}]
+
+jv5227442@gmail.com
+
+![](https://images.app.goo.gl/46eUrKPWdcMXScXA8)
