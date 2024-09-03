@@ -1,6 +1,6 @@
 ## Welcome 😎
 
-**My name is João Vitor**
+**Hi!🤙 My name is João Vitor**
 
 I'm studying Alura
 I'm developing in the Java Script
